@@ -5,7 +5,7 @@ Analisis pola indeks inflasi bulanan di 150 kota dan kabupaten di Indonesia, dib
 
 ## Isi
 
-- `analisis_inflasi_perkab_.ipynb`: notebook analisis
+- `analisis_inflasi_perkab.ipynb`: notebook analisis
 - `InflasiUmum.xlsx`: data
 
 ## Hasil
@@ -25,7 +25,7 @@ Analisis ini menunjukkan pola, bukan penyebabnya.
 
 1. Simpan kedua file di **folder yang sama**.
 2. Buka Jupyter Notebook, lalu masuk ke folder tadi.
-3. Klik `analisis_inflasi_perkab_.ipynb`.
+3. Klik `analisis_inflasi_perkab.ipynb`.
 4. Pilih menu **Run > Run All Cells**.
 
 Kalau muncul tulisan merah soal file tidak ditemukan, pastikan kedua file ada di folder yang sama.

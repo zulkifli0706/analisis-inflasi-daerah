@@ -7,9 +7,9 @@ analisis_inflasi_perkab.ipynb: notebook analisis
 InflasiUmum.xlsx: data
 gambar/: grafik hasil analisis
 Sumber data dan alat
-Sumber data: Badan Pusat Statistik (BPS), [isi nama tabel atau publikasi], [isi tautan jika ada], diakses [isi bulan dan tahun].
+Sumber data: Badan Pusat Statistik (BPS).
 Cakupan: 150 kota dan kabupaten, Januari sampai November 2025 (1.650 pengamatan).
-Alat: Python, Jupyter Notebook, [isi pustaka yang dipakai, misalnya pandas dan matplotlib].
+Alat: Python, Jupyter Notebook pandas dan matplotlib.
 Visualisasi
 
 <img width="697" height="442" alt="image" src="https://github.com/user-attachments/assets/75a42a0c-d9f3-4e2f-956e-b9245458a4b3" />

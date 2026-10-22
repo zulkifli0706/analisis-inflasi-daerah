@@ -10,16 +10,23 @@ Analisis pola indeks inflasi bulanan di 150 kota dan kabupaten di Indonesia, dib
 
 ## Hasil
 
-- **Inflasi naik turun bersamaan.** Indeks nasional turun (negatif) pada Januari, Februari, Mei, dan Agustus. Indeks tertinggi pada Maret (1,65), lalu April (1,17).
-- **Daerah bergerak kompak.** Pada Januari, Februari, dan Mei, lebih dari 125 dari 150 daerah ikut turun. Pada Maret, tidak ada satu pun yang turun.
-- **Sebagian besar daerah mengikuti pola nasional.** 117 dari 150 daerah polanya mirip. Hanya dua yang berlawanan arah: Kab. Jayawijaya dan Kota Batam.
-- **Daerah yang paling berbeda dari nasional:** Kab. Jayawijaya.
-- **Daerah yang paling naik turun:** Kab. Gorontalo, Kab. Toli-Toli, dan Kab. Nabire. **Yang paling tenang:** Kota Batam.
-- **Kabupaten lebih naik turun daripada kota**, walaupun rata-rata indeksnya sama.
-- **Waktu lebih berpengaruh daripada tempat.** Perbedaan antar bulan jauh lebih besar daripada perbedaan antar daerah.
-- **Angka yang sangat tidak biasa jarang.** Hanya 20 dari 1.650 data. Yang paling mencolok: Kab. Jayawijaya pada Februari (2,78).
+## Sumber data dan alat
 
-Analisis ini menunjukkan pola, bukan penyebabnya.
+- **Sumber data:** Badan Pusat Statistik (BPS).
+- **Cakupan:** 150 kota dan kabupaten, Januari sampai November 2025 (1.650 pengamatan).
+- **Alat:** Python, Jupyter Notebook, [pandas dan matplotlib].
+
+## Visualisasi
+
+<img width="697" height="442" alt="image" src="https://github.com/user-attachments/assets/75a42a0c-d9f3-4e2f-956e-b9245458a4b3" />
+
+
+Rata-rata 150 daerah bergerak hampir sama dengan indeks nasional.
+
+<img width="1007" height="455" alt="image" src="https://github.com/user-attachments/assets/c98f81be-0ef7-4147-aa51-38d6420d8599" />
+
+
+Sebagian besar daerah punya korelasi tinggi dengan pola nasional. Garis putus-putus menunjukkan batas 0,7.
 
 ## Cara membuka
 
